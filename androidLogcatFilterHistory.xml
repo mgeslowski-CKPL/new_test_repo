@@ -1,0 +1,29 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
+    <option name="nonFavorites">
+      <list>
+        <option value="&quot;verificationStatus&quot;:" />
+        <option value="http" />
+        <option value="mgg3" />
+        <option value="paymentMethods" />
+        <option value="NationalityListActivity" />
+        <option value="mgg" />
+        <option value="error" />
+        <option value="tag:E" />
+        <option value="transactionType" />
+        <option value="paymentMethod" />
+        <option value="payment" />
+        <option value="https://mob-api.gcp.test.ckpl.io/ppa/payment_methods?currencySymbol=PLN&amp;countrySymbol=PL" />
+        <option value="hasFocus" />
+        <option value="viewModel.navigateToSelectPaymentMethod" />
+        <option value="Mgg3" />
+        <option value="CurrencySpinnerInputView.setViewState:" />
+        <option value="mgg3!" />
+        <option value="setA" />
+        <option value="updateAmount" />
+        <option value="setActive" />
+      </list>
+    </option>
+  </component>
+</application>
