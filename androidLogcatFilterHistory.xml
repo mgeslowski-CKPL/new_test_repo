@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="mgg3" />
+    <option name="mostRecentlyUsed" value="http" />
     <option name="nonFavorites">
       <list>
+        <option value="http" />
         <option value="mgg3" />
         <option value="&quot;verificationStatus&quot;:" />
-        <option value="http" />
         <option value="paymentMethods" />
         <option value="NationalityListActivity" />
         <option value="mgg" />
