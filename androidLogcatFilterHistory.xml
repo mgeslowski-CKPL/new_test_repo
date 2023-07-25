@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="national =" />
+    <option name="mostRecentlyUsed" value="MGG3" />
     <option name="nonFavorites">
       <list>
+        <option value="MGG3" />
         <option value="national =" />
         <option value="mgg3" />
         <option value="http" />
@@ -22,7 +23,6 @@
         <option value="hasFocus" />
         <option value="viewModel.navigateToSelectPaymentMethod" />
         <option value="Mgg3" />
-        <option value="CurrencySpinnerInputView.setViewState:" />
       </list>
     </option>
   </component>
