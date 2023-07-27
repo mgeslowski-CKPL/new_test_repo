@@ -1,16 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="http" />
+    <option name="mostRecentlyUsed" value="mgg3" />
     <option name="nonFavorites">
       <list>
-        <option value="http" />
-        <option value="MGG3" />
-        <option value="national =" />
         <option value="mgg3" />
-        <option value="Experimental =" />
-        <option value="dictionaries/nationalities " />
-        <option value="Чеська" />
         <option value="&quot;verificationStatus&quot;:" />
+        <option value="http" />
         <option value="paymentMethods" />
         <option value="NationalityListActivity" />
         <option value="mgg" />
@@ -23,6 +18,11 @@
         <option value="hasFocus" />
         <option value="viewModel.navigateToSelectPaymentMethod" />
         <option value="Mgg3" />
+        <option value="CurrencySpinnerInputView.setViewState:" />
+        <option value="mgg3!" />
+        <option value="setA" />
+        <option value="updateAmount" />
+        <option value="setActive" />
       </list>
     </option>
   </component>
